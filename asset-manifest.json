@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/magician-countdown/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/magician-countdown/static/js/main.a87abad3.chunk.js",
-    "main.js.map": "/magician-countdown/static/js/main.a87abad3.chunk.js.map",
+    "main.js": "/magician-countdown/static/js/main.3b578414.chunk.js",
+    "main.js.map": "/magician-countdown/static/js/main.3b578414.chunk.js.map",
     "runtime-main.js": "/magician-countdown/static/js/runtime-main.6afea0e1.js",
     "runtime-main.js.map": "/magician-countdown/static/js/runtime-main.6afea0e1.js.map",
     "static/js/2.2fa4b5fe.chunk.js": "/magician-countdown/static/js/2.2fa4b5fe.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.6afea0e1.js",
     "static/js/2.2fa4b5fe.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a87abad3.chunk.js"
+    "static/js/main.3b578414.chunk.js"
   ]
 }
