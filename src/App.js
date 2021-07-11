@@ -112,7 +112,7 @@ export default function App() {
     }
 
     const handleSubmit = () => {
-        history.push("/?date=" + birthday.getFullYear().toString() + "-" + (birthday.getMonth() + 1).toString() + "-" + birthday.getDate().toString());
+        history.push("/magician-countdown?date=" + birthday.getFullYear().toString() + "-" + (birthday.getMonth() + 1).toString() + "-" + birthday.getDate().toString());
     }
 
     const renderer = ({ days, hours, minutes, seconds, completed }) => {
@@ -169,7 +169,7 @@ export default function App() {
                                 <Grid container style={{ justifyContent: "space-around", marginTop: 15 }}>
                                     <Grid item>
                                         <Button
-                                            onClick={() => history.replace("/")}
+                                            onClick={() => history.replace("/magician-countdown")}
                                             startIcon={<ChevronLeft />}
                                             color="primary"
                                             variant="contained"
